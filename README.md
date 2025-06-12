@@ -14,7 +14,7 @@ Cyprus' predicted life satisfaction score is 6.3.</br>
 ### Applications: </br>
 Linear regression is a simple model that can be used to interpolate data points which have not been provided by the data set. Therefore, it is a good general assumption for making predictions. </br>
 ### Future work: </br>
-Linear regression offers a limited snapshot to life saisfaction, using more data points will skew this data, a polynomial model may perform better.
+Linear regression offers a limited snapshot to life satisfaction, using more data points will skew this data, a polynomial model may perform better.
 
 ![Life Satisfaction Graph](graph.png) </br>
 Fig.1 Linear Regression Model Applied to the data 
